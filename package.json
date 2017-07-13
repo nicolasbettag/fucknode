@@ -1,6 +1,6 @@
 {
   "name": "fucknode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "wonky npm package, which gracefully deletes and reinstalls your npm packages when you’re grumpy 🤦‍",
   "main": "./lib/index.js",
   "bin": {
@@ -15,7 +15,7 @@
     "email": "hello@nicolasbettag.com"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "cool-ascii-faces": "^1.3.4",
     "graceful-fs": "^4.1.11",
     "node-cmd": "^3.0.0"
