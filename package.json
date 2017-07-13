@@ -1,6 +1,6 @@
 {
   "name": "fucknode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "wonky npm package, which gracefully deletes and reinstalls your npm packages when you’re grumpy 🤦‍",
   "main": "./lib/index.js",
   "bin": {
