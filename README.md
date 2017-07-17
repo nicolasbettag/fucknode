@@ -2,10 +2,12 @@
 wonky npm package, which gracefully deletes and reinstalls your npm packages when you’re grumpy 🤦‍
 
 
-## Getting started
+## Installing
 
-```sh
-npm install -g fucknode
+Using npm:
+
+```bash
+$ npm install -g fucknode
 ```
 
 ## License
